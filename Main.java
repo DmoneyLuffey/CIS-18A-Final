@@ -9,5 +9,6 @@ class Main {
     System.out.println("This is a fourth test");
 >>>>>>> origin/master
 System.out.println("Hello");
+system.out.println("Hi there!")
   }
 }
